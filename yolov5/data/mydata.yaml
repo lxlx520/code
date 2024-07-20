@@ -1,0 +1,5 @@
+train: data/mydata/train.txt
+val:   data/mydata/val.txt
+
+nc: 1
+names: ["car"]
